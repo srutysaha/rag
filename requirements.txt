@@ -1,10 +1,9 @@
 streamlit
-langchain
-faiss-cpu
-sentence-transformers
 transformers
-fpdf
-pypdf
-PyPDF2
-langchain-community
+langchain
+langchain-huggingface
+langchain-chroma
 bs4
+langchain-community
+sentence-transformers
+torch
